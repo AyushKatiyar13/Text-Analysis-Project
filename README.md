@@ -1,4 +1,4 @@
-Text Analysis Project
+Text Analysis Project:
 Overview
 This project involves extracting and analyzing textual data from specified URLs. The goal was to compute various readability and sentiment metrics and present the results in a structured CSV format.
 
